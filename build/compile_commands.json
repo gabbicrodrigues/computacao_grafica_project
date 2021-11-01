@@ -1,0 +1,102 @@
+[
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -sSDL2_IMAGE_FORMATS=\"[\"\"jpg\"\",\"\"png\"\"]\" -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o abcg\\CMakeFiles\\abcg.dir\\abcg_application.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_application.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_application.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -sSDL2_IMAGE_FORMATS=\"[\"\"jpg\"\",\"\"png\"\"]\" -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o abcg\\CMakeFiles\\abcg.dir\\abcg_elapsedtimer.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_elapsedtimer.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_elapsedtimer.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -sSDL2_IMAGE_FORMATS=\"[\"\"jpg\"\",\"\"png\"\"]\" -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o abcg\\CMakeFiles\\abcg.dir\\abcg_exception.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_exception.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_exception.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -sSDL2_IMAGE_FORMATS=\"[\"\"jpg\"\",\"\"png\"\"]\" -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o abcg\\CMakeFiles\\abcg.dir\\abcg_image.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_image.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_image.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -sSDL2_IMAGE_FORMATS=\"[\"\"jpg\"\",\"\"png\"\"]\" -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o abcg\\CMakeFiles\\abcg.dir\\abcg_openglfunctions.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_openglfunctions.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_openglfunctions.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -sSDL2_IMAGE_FORMATS=\"[\"\"jpg\"\",\"\"png\"\"]\" -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o abcg\\CMakeFiles\\abcg.dir\\abcg_openglwindow.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_openglwindow.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_openglwindow.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -sSDL2_IMAGE_FORMATS=\"[\"\"jpg\"\",\"\"png\"\"]\" -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o abcg\\CMakeFiles\\abcg.dir\\abcg_string.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_string.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_string.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -sSDL2_IMAGE_FORMATS=\"[\"\"jpg\"\",\"\"png\"\"]\" -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o abcg\\CMakeFiles\\abcg.dir\\abcg_trackball.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_trackball.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\abcg_trackball.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -I/usr/local/include -I/opt/local/include -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -O3 -DNDEBUG -flto=thin -s USE_SDL=2 -o abcg\\external\\imgui\\CMakeFiles\\imgui.dir\\imgui.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -I/usr/local/include -I/opt/local/include -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -O3 -DNDEBUG -flto=thin -s USE_SDL=2 -o abcg\\external\\imgui\\CMakeFiles\\imgui.dir\\imgui_demo.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_demo.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_demo.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -I/usr/local/include -I/opt/local/include -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -O3 -DNDEBUG -flto=thin -s USE_SDL=2 -o abcg\\external\\imgui\\CMakeFiles\\imgui.dir\\imgui_draw.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_draw.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_draw.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -I/usr/local/include -I/opt/local/include -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -O3 -DNDEBUG -flto=thin -s USE_SDL=2 -o abcg\\external\\imgui\\CMakeFiles\\imgui.dir\\imgui_tables.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_tables.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_tables.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -I/usr/local/include -I/opt/local/include -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -O3 -DNDEBUG -flto=thin -s USE_SDL=2 -o abcg\\external\\imgui\\CMakeFiles\\imgui.dir\\imgui_widgets.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_widgets.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_widgets.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -I/usr/local/include -I/opt/local/include -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -O3 -DNDEBUG -flto=thin -s USE_SDL=2 -o abcg\\external\\imgui\\CMakeFiles\\imgui.dir\\imgui_impl_sdl.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_impl_sdl.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_impl_sdl.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -I/usr/local/include -I/opt/local/include -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -O3 -DNDEBUG -flto=thin -s USE_SDL=2 -o abcg\\external\\imgui\\CMakeFiles\\imgui.dir\\imgui_impl_opengl3.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_impl_opengl3.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\imgui\\imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -O3 -DNDEBUG -flto=thin -std=gnu++20 -o abcg\\external\\fmt\\CMakeFiles\\fmt.dir\\format.cc.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\fmt\\format.cc",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\abcg\\external\\fmt\\format.cc"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o examples\\dodgingCandies\\CMakeFiles\\asteroids.dir\\main.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\examples\\dodgingCandies\\main.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\examples\\dodgingCandies\\main.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o examples\\dodgingCandies\\CMakeFiles\\asteroids.dir\\openglwindow.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\examples\\dodgingCandies\\openglwindow.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\examples\\dodgingCandies\\openglwindow.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o examples\\dodgingCandies\\CMakeFiles\\asteroids.dir\\asteroids.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\examples\\dodgingCandies\\asteroids.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\examples\\dodgingCandies\\asteroids.cpp"
+},
+{
+  "directory": "C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/build",
+  "command": "C:\\emsdk\\upstream\\emscripten\\em++.bat -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/cppitertools -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/fmt -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/glm/.. -IC:/emsdk/upstream/emscripten/cache/sysroot/include/SDL2 -IC:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external/imgui -isystem C:/Users/gabri/OneDrive/Documentos/Projetos/projetoCompGraf/abcg/external -O3 -DNDEBUG -flto=thin -Wall -Wextra -pedantic -std=c++20 -Oz -sUSE_SDL=2 -sUSE_SDL_IMAGE=2 -std=gnu++20 -o examples\\dodgingCandies\\CMakeFiles\\asteroids.dir\\skin.cpp.o -c C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\examples\\dodgingCandies\\skin.cpp",
+  "file": "C:\\Users\\gabri\\OneDrive\\Documentos\\Projetos\\projetoCompGraf\\examples\\dodgingCandies\\skin.cpp"
+}
+]
